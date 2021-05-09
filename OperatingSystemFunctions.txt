@@ -5,3 +5,7 @@ Most commonly people will just throw their programs onto their desktop or organi
 Another operating system function is to optimize gaming performance. 
 One way the operating system does this is by effectively allocating the resources of your CPU and GPU to give you better performance. 
 It is a very helpful tool to have on Windows, although Mac OS does not do this very well. 
+A final funtion of an operating system is to properly allocate resources in productivity work. 
+This can include but is not limited to, Gaming, Video editing, photo editing, 3D Design work, and more. 
+Again, the OS allocates resources to the specific program or game you're using in order to give you the best performance possible. 
+A short note: Windows is superior for customization, optimization, gaming, and productivity work, while Mac is good for Ease of Use. 
