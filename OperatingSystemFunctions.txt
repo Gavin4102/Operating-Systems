@@ -2,3 +2,6 @@ One function of an Operating System is help you control the way you use your com
 An OS is made to give the user control over their system, and one of those ways is customization. 
 You can move individual programs around, put them in folders, put them into different categories even. 
 Most commonly people will just throw their programs onto their desktop or organize photos based on different timeframes. 
+Another operating system function is to optimize gaming performance. 
+One way the operating system does this is by effectively allocating the resources of your CPU and GPU to give you better performance. 
+It is a very helpful tool to have on Windows, although Mac OS does not do this very well. 
