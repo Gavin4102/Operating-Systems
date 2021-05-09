@@ -1,0 +1,4 @@
+One function of an Operating System is help you control the way you use your computer. 
+An OS is made to give the user control over their system, and one of those ways is customization. 
+You can move individual programs around, put them in folders, put them into different categories even. 
+Most commonly people will just throw their programs onto their desktop or organize photos based on different timeframes. 
